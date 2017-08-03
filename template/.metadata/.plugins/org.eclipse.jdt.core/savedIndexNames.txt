@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+/Users/codyfjm/Documents/workspace_jee/template/.metadata/.plugins/org.eclipse.jdt.core
