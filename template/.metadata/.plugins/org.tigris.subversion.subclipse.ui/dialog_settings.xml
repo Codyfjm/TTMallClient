@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item value="23" key="passwordStores.location.y"/>
+	<item value="564" key="passwordStores.size.y"/>
+	<item value="180" key="passwordStores.location.x"/>
+	<item value="921" key="passwordStores.size.x"/>
+	<item value="" key="DirectorySelectionPage.lastParent_https://pc-201311301552/svn/taotao-0426"/>
+	<item value="https://pc-201311301552/svn/taotao-0426" key="RepositorySelectionPage.lastRepository"/>
+	<section name="NewLocationWizard">
+	</section>
 </section>
